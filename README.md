@@ -1,4 +1,4 @@
-# atlas_nazisfascist_repression
+# Atlas Nazis ad Fascist Repression
 
 This repository is a research project.
 
@@ -11,4 +11,4 @@ http://www.ultimelettere.it/
 I would like to thank Igor Pizzirusso and the Istituto Nazionale Ferruccio Parri to share their data on Nazis' and Fascists' massacres.
 
 I would like to thank Laura Brazzo and the Centro di Documentazione Ebraica Contemporanea for their support and data on Jewish Deportation
-# atlas_nazisfascist_repression
+

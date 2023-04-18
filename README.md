@@ -12,3 +12,4 @@ I would like to thank Igor Pizzirusso and the Istituto Nazionale Ferruccio Parri
 
 I would like to thank Laura Brazzo and the Centro di Documentazione Ebraica Contemporanea for their support and data on Jewish Deportation
 
+For details on this chronological map, and discussion, see Giovanni Pietro Vitali, "Visualizing second world war violence through an Atlas of Nazi–Fascist Repression", <i>Digital Scholarship in the Humanities</i>, Volume 37, Issue 2, June 2022, Pages 594–610, https://doi.org/10.1093/llc/fqab070

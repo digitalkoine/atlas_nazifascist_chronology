@@ -1,4 +1,4 @@
-# <a href="https://digitalkoine.github.io/atlas_nazifascist_chronology/">Atlas Nazis ad Fascist Repression</a>
+# <a href="https://digitalkoine.github.io/atlas_nazifascist_chronology/">Atlas Nazis and Fascist Repression (chronological map)</a>
 
 This repository is a research project.
 
